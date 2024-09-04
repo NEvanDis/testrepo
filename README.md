@@ -1,2 +1,2 @@
 # Git workshop
-Test repository to play with to practice using Git and Github
+Test repository to practice using Git and Github
